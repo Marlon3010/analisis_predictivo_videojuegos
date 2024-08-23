@@ -68,6 +68,7 @@ Explica:
 **Formato:** Completa la tarea en Jupyter Notebook. Inserta el código de programación en las celdas code y las explicaciones de texto en las celdas markdown. Aplica formato y agrega encabezados.
 
 **Descripción de datos**
+
 — Name (Nombre)
 
 — Platform (Plataforma)
